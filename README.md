@@ -1,2 +1,2 @@
-# SomeProjectWithPython
-A few basic project for exercise
+# ExercisetWithPython
+Simple exercises in Python for beginners
